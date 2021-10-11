@@ -12,6 +12,7 @@ export default function App() {
         <Button label='/'/>
         <Button label='7'/>
         <Button label='8'/>
+        <Button label='9'/>
         <Button label='*'/>
         <Button label='4'/>
         <Button label='5'/>
